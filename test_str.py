@@ -3,3 +3,8 @@ b = 'xiaoming shuo:\"ta shi xiaoming\"'
 
 print(a)
 print(b)
+
+def foo():
+    print('hello wordl!')
+
+foo()
